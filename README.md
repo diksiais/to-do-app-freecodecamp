@@ -12,22 +12,6 @@ It allows you to **add, edit, and delete tasks**, and it remembers your tasks in
 - **Unsaved changes warning** — a confirmation dialog appears if you try to close the form with unsaved edits.
 - **Clean UI** with simple toggling between form and task list.
 
-## 📸 Demo
-
-![App Screenshot](screenshot.png)  
-*(Replace with your screenshot)*
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/task-manager.git
-cd task-manager
-```
-
-### 2. Open in Browser
-Just open the `index.html` file in your favorite browser. No extra setup required.
-
 ## 🛠 Project Structure
 
 ```
