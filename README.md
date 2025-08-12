@@ -50,10 +50,6 @@ Data is saved as JSON under the key `"data"`. Clearing your browser storage will
 - Sort by date
 - Sync with a backend API for multi-device use
 
-## 📜 License
+## 📜 Source
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-**Happy Tasking!** ✅
+Freecodecamp course
